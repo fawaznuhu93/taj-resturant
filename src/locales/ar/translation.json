@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "menu": "القائمة",
+    "gallery": "معرض الصور",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "header": {
+    "location": "الفروانية، الكويت",
+    "orderNow": "اطلب الآن"
+  },
+  "hero": {
+    "reviews": "11 تقييم",
+    "tagline": "جرب الطعم الأصيل لجنوب الهند في قلب الكويت",
+    "viewMenu": "شاهد قائمتنا",
+    "orderWhatsApp": "اطلب عبر واتساب",
+    "hours": "ساعات العمل",
+    "location": "الموقع",
+    "delivery": "توصيل مجاني",
+    "freeDelivery": "في جميع أنحاء الفروانية"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "subtitle": "اطلب أو احجز",
+    "description": "نحن هنا لخدمتك بأطباق جنوب الهند الأصيلة",
+    "visit": "زورنا",
+    "call": "اتصل بنا",
+    "whatsappAvailable": "متاح على واتساب",
+    "hours": "الساعات",
+    "everyDay": "كل يوم",
+    "instantOrder": "طلب فوري",
+    "perfectLocation": "موقع مثالي",
+    "locationDescription": "ابحث عنا في الفروانية بلوك 4، نقدم نكهات جنوب الهند الأصيلة",
+    "orderWhatsApp": "اطلب فورياً على واتساب",
+    "deliveryOrder": "طلب توصيل",
+    "tableReservation": "حجز طاولة",
+    "orderNow": "اطلب الآن",
+    "bookTable": "احجز طاولة",
+    "fullName": "الاسم الكامل",
+    "namePlaceholder": "اسمك",
+    "phone": "رقم الهاتف",
+    "deliveryAddress": "عنوان التوصيل",
+    "addressPlaceholder": "عنوانك الكامل في الكويت",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "message": "طلبك/رسالتك",
+    "orderPlaceholder": "يرجى ذكر العناصر التي تريد طلبها...",
+    "reservationPlaceholder": "أي طلبات خاصة أو معلومات إضافية...",
+    "submitOrder": "إرسال الطلب",
+    "bookNow": "احجز الآن",
+    "preferWhatsApp": "تفضل الطلب الفوري؟",
+    "orderViaWhatsApp": "اطلب عبر واتساب",
+    "messageSent": "تم إرسال الطلب!",
+    "responseTime": "سنتصل بك خلال 15 دقيقة لتأكيد طلبك.",
+    "sendAnother": "إرسال طلب آخر"
+  }
+}

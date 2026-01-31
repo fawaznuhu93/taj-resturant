@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "header": {
+    "location": "Farwaniya, Kuwait",
+    "orderNow": "Order Now"
+  },
+  "hero": {
+    "reviews": "11 Reviews",
+    "tagline": "Experience the authentic taste of South India in the heart of Kuwait",
+    "viewMenu": "View Our Menu",
+    "orderWhatsApp": "Order via WhatsApp",
+    "hours": "Operating Hours",
+    "location": "Location",
+    "delivery": "Free Delivery",
+    "freeDelivery": "Across Farwaniya"
+  },
+  "contact": {
+    "title": "CONTACT US",
+    "subtitle": "Order or Reserve",
+    "description": "We're here to serve you authentic South Indian cuisine",
+    "visit": "Visit Us",
+    "call": "Call Us",
+    "whatsappAvailable": "WhatsApp Available",
+    "hours": "Hours",
+    "everyDay": "Every Day",
+    "instantOrder": "Instant Ordering",
+    "perfectLocation": "Perfectly Located",
+    "locationDescription": "Find us in Farwaniya Block 4, serving authentic South Indian flavors",
+    "orderWhatsApp": "Order Instantly on WhatsApp",
+    "deliveryOrder": "Delivery Order",
+    "tableReservation": "Table Reservation",
+    "orderNow": "Order Now",
+    "bookTable": "Book a Table",
+    "fullName": "Full Name",
+    "namePlaceholder": "Your Name",
+    "phone": "Phone Number",
+    "deliveryAddress": "Delivery Address",
+    "addressPlaceholder": "Your complete address in Kuwait",
+    "date": "Date",
+    "time": "Time",
+    "message": "Your Order/Message",
+    "orderPlaceholder": "Please list the items you want to order...",
+    "reservationPlaceholder": "Any special requests or additional information...",
+    "submitOrder": "Submit Order",
+    "bookNow": "Book Now",
+    "preferWhatsApp": "Prefer to order instantly?",
+    "orderViaWhatsApp": "Order via WhatsApp",
+    "messageSent": "Order Sent!",
+    "responseTime": "We'll contact you within 15 minutes to confirm your order.",
+    "sendAnother": "Send Another Order"
+  }
+}
